@@ -1,0 +1,17 @@
+/* first way */
+.row{
+    display: flex;
+}
+.item{
+    background-color: green;
+    width: 100%;
+}
+
+/* second Way */
+.row1{
+    display: flex;
+}
+.item1{
+    background-color: green;
+    flex-grow: 1;
+}

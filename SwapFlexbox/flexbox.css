@@ -1,0 +1,14 @@
+.parent{
+    display: flex;
+}
+.parent>div{
+    width: 100px;
+    height: 100px;
+    background: green;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.a2 {
+    order: 2;
+}

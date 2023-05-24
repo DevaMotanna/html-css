@@ -1,0 +1,13 @@
+.parent{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:green;
+}
+.child{
+    width: 200px;
+    height: 200px;
+    background: red;
+}
